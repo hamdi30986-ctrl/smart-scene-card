@@ -14,28 +14,33 @@ A powerful custom Lovelace card for Home Assistant that creates intelligent, one
 ### 💡 Light Smart Mode
 - **Night Exit Delay**: Keep lights on for X seconds after deactivating at night
 - **Skip if Covers Opening**: Don't turn on lights during daytime when covers are opening
+  
 ![4](https://github.com/user-attachments/assets/7ca4a061-4685-4862-8eaa-1cb5cb334d69)
 
 ### ❄️ Climate Smart Mode
 - **Temperature-Based Activation**: Only turn on AC when room temp exceeds threshold
 - **Dynamic Fan Speed**: Automatically adjust fan based on temperature
 - **Sensor Integration**: Uses any temperature sensor for decisions
+  
 ![2](https://github.com/user-attachments/assets/b13ccee2-4637-4749-8442-008ac69b73eb)
 
 ### 🪟 Cover Smart Mode
 - **Daytime Only**: Covers only open during daytime (sun above horizon)
 - **Reverse on Deactivate**: Covers automatically reverse position when scene turns off
+  
 ![3](https://github.com/user-attachments/assets/78216e37-57ff-49a5-8190-00be9143c46a)
 
 ### 🔊 Media Player Smart Mode
 - **Welcome TTS**: Play a greeting when scene activates
 - **Goodbye TTS**: Play a farewell when scene deactivates
 - **Volume Control**: Set specific volume level for the scene
+  
 ![5](https://github.com/user-attachments/assets/74d0dd8f-c2df-4531-b3f3-3c5c842326d7)
 
 ### 🔘 Switch/Toggle Smart Mode
 - **Conditional Skip**: Skip activation based on another entity's state
 - **Dynamic State Options**: State options adapt to entity type (climate, cover, media player, etc.)
+  
 ![6](https://github.com/user-attachments/assets/4776d21f-f1ec-48de-9639-867bb98ad4b6)
 
 ### ✨ Active Glow Control
@@ -46,6 +51,7 @@ A powerful custom Lovelace card for Home Assistant that creates intelligent, one
 - **Hold 3 seconds**: Opens a status modal showing all entities
 - **Real-time Status**: ✅ Match, ❌ Mismatch, ⏭️ Skipped (smart mode)
 - **Detailed Info**: Shows expected vs actual values for each entity
+  
 ![7](https://github.com/user-attachments/assets/6967ef86-b5b6-490d-9aa2-f7dc5fb165e1)
 
 ---
