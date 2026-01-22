@@ -1,5 +1,7 @@
 # Smart Scene Card
 
+<img width="522" height="136" alt="image" src="https://github.com/user-attachments/assets/5674fb95-6b44-44ba-96ea-ff9a2aabb76b" />
+
 A powerful custom Lovelace card for Home Assistant that creates intelligent, one-touch scene controls with smart automation features.
 
 ## Features
