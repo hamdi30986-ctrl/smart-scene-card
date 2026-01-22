@@ -35,6 +35,11 @@ A powerful custom Lovelace card for Home Assistant that creates intelligent, one
 - **Per-Entity Control**: Choose which entities affect the active button indicator
 - **Glow Checkbox**: Each entity has a "Glow" toggle in the header
 
+### 🔍 Long-Press Tracking
+- **Hold 3 seconds**: Opens a status modal showing all entities
+- **Real-time Status**: ✅ Match, ❌ Mismatch, ⏭️ Skipped (smart mode)
+- **Detailed Info**: Shows expected vs actual values for each entity
+
 ---
 
 ## Installation
