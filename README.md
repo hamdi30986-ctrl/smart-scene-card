@@ -51,7 +51,7 @@ A powerful custom Lovelace card for Home Assistant that creates intelligent, one
 4. Search for "Smart Scene Card" and install
 
 ### Manual Installation
-1. Download `smart-scene-card.js` from the `dist` folder
+1. Download `smart-scene-card.js`.
 2. Copy to your Home Assistant's `/config/www/` folder
 3. Add the resource in **Settings → Dashboards → Resources**:
    ```yaml
